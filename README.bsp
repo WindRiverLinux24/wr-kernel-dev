@@ -16,7 +16,7 @@ against the Wind River kernel, the following must be true:
      and adding a BSP to the build system.
 
   2) The BSP is declared compatible with the linux-yocto kernel. If the
-     wrlinux-kernel-dev layer is included in a build, this compatibility is
+     wr-kernel-dev layer is included in a build, this compatibility is
      always set.
 
   3) The BSP has a "BSP kernel description" that defines which branch,

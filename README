@@ -1,4 +1,4 @@
-wrlinux-kernel-dev layer
+wr-kernel-dev layer
 ----------------
 
 This layer should be used when working with a local clone
@@ -53,7 +53,7 @@ Templates
    unexpectedly using it as virtual/kernel.
 
 
-Building with the wrlinux-kernel-dev layer
+Building with the wr-kernel-dev layer
 -----------------------------
 1. Add this layer and a corresponding BSP layer to your build's
    conf/bblayers.conf file
